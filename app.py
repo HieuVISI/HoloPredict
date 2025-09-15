@@ -3,7 +3,7 @@ import datetime
 import requests
 import ephem
 
-API_KEY = "YOUR_API_KEY"  # Thay bằng API key OpenWeatherMap
+API_KEY = "bdd87f6b4000fd30748692be412821d9"  # Thay bằng API key OpenWeatherMap
 
 # ========================
 # Xác định cung hoàng đạo
