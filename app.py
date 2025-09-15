@@ -66,7 +66,6 @@ def get_moon_phase():
 # Dữ liệu dự đoán
 # ========================
 predictions = {
-    predictions = {
     "Bạch Dương": {
         "weather": {
             "nắng": "Nắng ấm tiếp thêm lửa cho Bạch Dương, hãy bắt đầu dự án bạn còn dang dở.",
@@ -259,8 +258,6 @@ predictions = {
             "full": "Trăng tròn khuếch đại trực giác, tin tưởng vào cảm giác của bạn."
         }
     }
-}
-
 }
 
 # ========================
